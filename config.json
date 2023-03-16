@@ -1,1 +1,6 @@
-{"clientid":"Clientid","redirecturl":"returnurl","clientsecret":"clientsecret","token":"discordbottoken"}
+{
+  "clientid": "1085841593090707487",
+  "redirecturl": "https://busy-cyan-dhole-kilt.cyclic.app/",
+  "clientsecret": "AkVIR9k2pZ_FWqSPrjVD3uC4sNZ1PDdz",
+  "token": "MTA4NTg0MTU5MzA5MDcwNzQ4Nw.Gsx8t8.nJq-6VF-zPne-cGXmm2GSmTOeMEcQQM6cLu-OY"
+}
